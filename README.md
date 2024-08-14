@@ -40,10 +40,10 @@ class Bio  {
 <img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
 
 <p align="center">
-	<a href="https://github.com/reddyprasade"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://in.linkedin.com/in/reddy-prasad-e-03b12656"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/reddyprasade"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=orange" alt="GitHub Sponsors"></a>
-	 <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
+	<a href="https://github.com/tenzaicbt"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="[https://discord.com/invite/your-invite-code](https://discord.com/users/572448715663474699)"><img src="https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=white" alt="Discord"></a>
+	<a href="www.linkedin.com/in/yohankoshala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </p>
 
 ---
