@@ -57,7 +57,7 @@ class Bio  {
 ---
 
 <samp>
-I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Student based in Colombo, Sri Lanka. With a strong passion for cybersecurity, ethical hacking, and network engineering, I,m currently gaining practical experience as an intern at NWSDB Sri Lanka, where he focuses on cybersecurity and firewall management. Alongside his technical skills, Yohan is also proficient in design and video editing, using tools like Adobe After Effects, Photoshop, and Premiere Pro. Beyond his professional pursuits, I,m an entrepreneur, having founded thé - tea Sri Lanka in 2014. He is always eager to learn and explore new technologies, continuously expanding his skill set and staying up-to-date with industry trends.
+I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Student based in Colombo, Sri Lanka. With a strong passion for cybersecurity, ethical hacking, and network engineering, I,m currently gaining practical experience as an intern at NWSDB Sri Lanka, where he focuses on cybersecurity and firewall management. Alongside his technical skills, Yohan is also proficient in design and video editing, using tools like Adobe After Effects, Photoshop, and Premiere Pro.
 </samp>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -79,8 +79,7 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
- ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
-
+ ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` 
  <div>
 🔴🟡🟢
 
