@@ -1,3 +1,8 @@
+<div>
+🔴🟡🟢
+
+<br>
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
@@ -40,9 +45,11 @@ class Bio  {
 <img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
 
 <p align="center">
-	<a href="https://github.com/tenzaicbt"><img src="https://img.shields.io/github/followers/tenzaicbt.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://discord.com/users/572448715663474699"><img src="https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=white" alt="Discord"></a>
-	<a href="https://www.linkedin.com/in/yohankoshala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/tenzaicbt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohankoshala)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/572448715663474699)
+
 
 
 </p>
@@ -73,3 +80,8 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
  ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+
+ <div>
+🔴🟡🟢
+
+<br>
