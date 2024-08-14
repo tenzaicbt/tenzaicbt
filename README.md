@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**tenzaicbt/tenzaicbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
 
-Here are some ideas to get you started:
+class Bio  {
+  name     = 'Yohan Koshal Hetti Archchi';
+  title    = 'Network Technology and Cyber Security Engineer';
+  location = 'Sri Lanka, WP';
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=2C2D72)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=WordPress&logoColor=21759B)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender&logoColor=F5792A)&nbsp;
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-05122A?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=FF9A00)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects&logoColor=9999FF)&nbsp;
+![Valorant](https://img.shields.io/badge/Valorant-05122A?style=flat&logo=valorant&logoColor=E63B2E)&nbsp;
+
+
+
+<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
+
+<p align="center">
+	<a href="https://github.com/reddyprasade"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://in.linkedin.com/in/reddy-prasad-e-03b12656"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/reddyprasade"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=orange" alt="GitHub Sponsors"></a>
+	 <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
+</p>
+
+---
+
+<samp>
+I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Student based in Colombo, Sri Lanka. With a strong passion for cybersecurity, ethical hacking, and network engineering, I,m currently gaining practical experience as an intern at NWSDB Sri Lanka, where he focuses on cybersecurity and firewall management. Alongside his technical skills, Yohan is also proficient in design and video editing, using tools like Adobe After Effects, Photoshop, and Premiere Pro. Beyond his professional pursuits, I,m an entrepreneur, having founded thé - tea Sri Lanka in 2014. He is always eager to learn and explore new technologies, continuously expanding his skill set and staying up-to-date with industry trends.
+</samp>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+ tenzaicbt/README.md at main · tenzaicbt/tenzaicbt <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
