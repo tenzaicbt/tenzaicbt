@@ -2,8 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-```js
-
+```
 class Bio  {
   name     = 'Yohan Koshal Hetti Archchi';
   title    = 'Network Technology and Cyber Security Engineer';
@@ -58,4 +57,4 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
- tenzaicbt/README.md at main · tenzaicbt/tenzaicbt <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+ ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
