@@ -33,7 +33,7 @@ class Bio  {
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=FF9A00)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects&logoColor=9999FF)&nbsp;
-![Valorant](https://img.shields.io/badge/Valorant-05122A?style=flat&logo=valorant&logoColor=E63B2E)&nbsp;
+
 
 
 
@@ -52,8 +52,22 @@ class Bio  {
 I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> Student based in Colombo, Sri Lanka. With a strong passion for cybersecurity, ethical hacking, and network engineering, I,m currently gaining practical experience as an intern at NWSDB Sri Lanka, where he focuses on cybersecurity and firewall management. Alongside his technical skills, Yohan is also proficient in design and video editing, using tools like Adobe After Effects, Photoshop, and Premiere Pro. Beyond his professional pursuits, I,m an entrepreneur, having founded thé - tea Sri Lanka in 2014. He is always eager to learn and explore new technologies, continuously expanding his skill set and staying up-to-date with industry trends.
 </samp>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Valorant](https://img.shields.io/badge/Valorant-05122A?style=flat&logo=valorant&logoColor=E63B2E)&nbsp;
+![Forza Horizon 5](https://img.shields.io/badge/Forza%20Horizon%205-05122A?style=flat&logo=forza&logoColor=00A3E0)&nbsp;
+![COD Warzone 3](https://img.shields.io/badge/COD%20Warzone%203-05122A?style=flat&logo=call-of-duty&logoColor=1F1F1F)&nbsp;
+![Battlefield V](https://img.shields.io/badge/Battlefield%20V-05122A?style=flat&logo=battlefield&logoColor=0071A0)&nbsp;
+![GTA RP](https://img.shields.io/badge/GTA%20RP-05122A?style=flat&logo=grand-theft-auto&logoColor=3D3D3D)&nbsp;
+![FiveM](https://img.shields.io/badge/FiveM-05122A?style=flat&logo=fivem&logoColor=FFFFFF)&nbsp;
+![Rockstar](https://img.shields.io/badge/Rockstar-05122A?style=flat&logo=rockstar-games&logoColor=FF0000)&nbsp;
+![Riot](https://img.shields.io/badge/Riot-05122A?style=flat&logo=riot-games&logoColor=ED1C24)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord&logoColor=7289DA)&nbsp;
+![TeamSpeak](https://img.shields.io/badge/TeamSpeak-05122A?style=flat&logo=teamspeak&logoColor=3E8CFF)&nbsp;
+![Steam](https://img.shields.io/badge/Steam-05122A?style=flat&logo=steam&logoColor=000000)&nbsp;
+![Epic Games](https://img.shields.io/badge/Epic%20Games-05122A?style=flat&logo=epic-games&logoColor=313131)&nbsp;
+
+
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
