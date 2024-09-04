@@ -9,7 +9,7 @@
 
 ```
 class Bio  {
-  name     = 'Yohan Koshal Hetti Archchi';
+  name     = 'Yohan Koshala Hetti Archchi';
   title    = 'Network Technology and Cyber Security Engineer';
   location = 'Sri Lanka, WP';
 }
