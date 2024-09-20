@@ -75,7 +75,7 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 ![Steam](https://img.shields.io/badge/Steam-05122A?style=flat&logo=steam&logoColor=000000)&nbsp;
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-05122A?style=flat&logo=epic-games&logoColor=313131)&nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/771639970854731808)](https://discord.com/users/572448715663474699)
+[![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
