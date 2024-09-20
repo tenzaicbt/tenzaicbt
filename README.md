@@ -80,7 +80,12 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 [![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
 
 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+<!--   <picture> -->
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/sineastra/output/github-contribution-grid-snake-dark.svg" />
+<!--   </picture> -->
+</div>
+
 
  ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` 
  <div>
