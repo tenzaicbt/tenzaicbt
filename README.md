@@ -77,6 +77,7 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
+[![GitBook Profile](https://img.shields.io/badge/GitBook-LordeFX-blue)](https://lordefx.gitbook.io/lordefx/)
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
