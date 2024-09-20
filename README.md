@@ -78,7 +78,6 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
 
-
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
  ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` 
