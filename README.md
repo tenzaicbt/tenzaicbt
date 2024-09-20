@@ -49,7 +49,8 @@ class Bio  {
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/tenzaicbt)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohankoshala)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/572448715663474699)
-
+[![GitBook Profile](https://img.shields.io/badge/GitBook-LordeFX-orange)](https://lordefx.gitbook.io/lordefx/)
+[![GitBook Profile](https://img.shields.io/badge/GitBook-yohan-koshala-blue)](https://https://yohan-koshala.gitbook.io/yohan-koshala/)
 
 
 </p>
@@ -77,7 +78,7 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
-[![GitBook Profile](https://img.shields.io/badge/GitBook-LordeFX-blue)](https://lordefx.gitbook.io/lordefx/)
+
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
