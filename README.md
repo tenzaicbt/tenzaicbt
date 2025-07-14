@@ -77,16 +77,6 @@ I,m <b>cybersecurity and network technology</b> <img src="https://media.giphy.co
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-05122A?style=flat&logo=epic-games&logoColor=313131)&nbsp;
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/572448715663474699)](https://discord.com/users/572448715663474699)
-
-
-  <div align="center">
-<!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/sineastra/sineastra/output/github-contribution-grid-snake-dark.svg" />
-<!--   </picture> -->
-</div>
-
-
  ``` tenzaicbt/README.md at main · tenzaicbt/tenzaicbt``` 
  <div>
 🔴🟡🟢
