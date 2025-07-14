@@ -21,16 +21,17 @@ class Bio  {
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=2C2D72)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+
 ![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=WordPress&logoColor=21759B)&nbsp;
 ![Blender](https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender&logoColor=F5792A)&nbsp;
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-05122A?style=flat&logo=Adobe%20Lightroom&logoColor=31A8FF)&nbsp;
@@ -38,8 +39,7 @@ class Bio  {
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat&logo=Adobe%20Illustrator&logoColor=FF9A00)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects&logoColor=9999FF)&nbsp;
-
-
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-05122A?style=flat&logo=daVinciResolve&logoColor=FF9A00)&nbsp;
 
 
 <img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
